@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Satyam Soni",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2018kucp1121@iiitkota.ac.in",
+		"phone": "6387363138",
+		"website": "http://satyamsoni23.github.io/",
+		"summary": "---Tell Something about yourself ---",
+		"location": {
+			"address": "Sarnath",
+			"postalCode": "221007",
+			"city": "Varanasi",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "SatyamSoni23",
+				"url": "https://www.twitter.com/SatyamSoni23"
+			},
+			{
+				"network": "Github",
+				"username": "SatyamSoni23",
+				"url": "https://www.github.com/SatyamSoni23/"
+			},
+			{
+				"network": "linkedin",
+				"username": "satyam-soni-332522172",
+				"url": "https://www.linkedin.com/in/satyam-soni-332522172/"
+			},
+			{
+				"network": "Instagram",
+				"username": "satyam__soni1",
+				"url": "https://instagram.com/satyam__soni1"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "2018-05-31",
+		"gpa": "8.13",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
