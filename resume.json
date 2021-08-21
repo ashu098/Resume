@@ -1,18 +1,18 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Ashutosh Paliwal",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"email": "2018kucp1125@iiitkota.ac.in",
+		"phone": "9650712619",
+		"website": "https://iiitkota.ac.in/student/2018KUCP1125",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science.Hard-working and Self-motivated college student with passion for programming and problem-solving. Has developed several projects with a variety of technologies and tools.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "House No. 2816,Laxman Vihar,Ph-2",
+			"postalCode": "122001",
+			"city": "Gurgaon",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Haryana"
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -22,12 +22,12 @@
 			{
 				"network": "Github",
 				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://www.github.com/ashu098/"
 			},
 			{
 				"network": "linkedin",
 				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"url": "https://www.linkedin.com/in/ashutosh-paliwal-a48a76176/"
 			},
 			{
 				"network": "Instagram",
@@ -59,8 +59,8 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"endDate": "2022-06-15",
+		"gpa": "8.80",
 		"courses": [
 			"Computer Science & Engineering"
 		]
@@ -77,11 +77,11 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["C++", "Python", "DSA", "RDBMS", "MySql", "HTML","CSS", "Machine Learning", "Operating System"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": []
 	}],
 	"references": []
 }
